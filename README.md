@@ -1,4 +1,4 @@
-# Jae-Ho-s-First-GitHub-Project
+# Jae-Ho-s-First-Project
 
 2018.01.06
 

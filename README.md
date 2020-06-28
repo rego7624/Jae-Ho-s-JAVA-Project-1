@@ -2,9 +2,9 @@
 
 2018.01.06
 
-**First java Project!
+**First JAVA Project!
 
-## Making 2048 Game with Java>
+## Making 2048 Game with Java
 
 **Description
 

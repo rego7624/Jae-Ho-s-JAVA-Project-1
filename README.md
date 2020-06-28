@@ -1,6 +1,6 @@
 # Jae-Ho-s-First-GitHub-Project
 
-<img alt="깃헙 프로필" src="https://i.pinimg.com/originals/7d/18/28/7d1828296f86bc39e2d10e39182512d3.jpg" width="200>
+<img alt="깃헙 프로필 사진" src="https://raw.githubusercontent.com/seokju-na/resume/bf557431b5e7b5b84fed25020885dcc5e4ad79d9/assets/me_at_github.png" width="200">
 
 2018.01.06
 

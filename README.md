@@ -1,6 +1,6 @@
 # Jae-Ho-s-First-Project-2018.
 
-*First java Project!
+#First java Project!
 
 <Making 2048 Game with Java>
 
